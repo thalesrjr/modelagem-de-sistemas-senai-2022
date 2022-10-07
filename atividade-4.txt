@@ -1,0 +1,191 @@
+Atividade 
+
+	Pizzaria fresco
+
+
+1-Na pizzaria fresco os  pedidos são feitos no balcão principal perto da entrada o cliente pode pedir pizzas mini, pequena ,media ,grande ,e muito grande, sendo a mini 4 pedaços ,media 6 pedaços, grande 8 pedaços e muito grande 12, nas bebidas temos Coca-Cola , Fanta ,guaraná, suco del valle  de uva ,laranja e caju, não temos bebidas alcoólicas por sermos um estabelecimento família o cliente tem a opção de pagar agora ou no caixa na saída, para controle de pagamento e utilizado um software próprio que manda o relatório do dia para o gerente    lá e onde  também e decidido a mesa onde serra levada o pedido ;
+2-Nesse balcão vai ter dois atendentes, no caixa mais  um atendente , dois cozinheiros, um garçom e  um gerente trabalhando das 12:00 20:00;
+
+3- o responsável e um gerente que também cuida do financeiro.
+
+4- A partir do momento que o cliente faz o pedido no balcão o pedido vai para a cozinha e entra na fila;
+Requisitos funcionais o que, o sistema deve fazer
+Requisitos não funcional como o sistema deve fazer
+Identificação	RN001
+Titulo	RN001
+Analista	Thales Rafael de Jesus Rodrigues
+Fonte	Arial
+Data	26/09/2022
+Descrição	Pedido deve ser feito no balcão principal
+
+
+
+
+
+
+
+Identificação:	RN002
+Titulo:	RN002
+Analista:	Thales Rafael de jesus Rodrigues
+Fonte:	Arial
+Data:	26/09/2022
+Descrição:	A mesas deve ser anotada junto com o pedido
+
+
+
+
+
+
+
+
+Identificação:	RN003
+Titulo:	RN003
+Analista:	Thales Rafael de jesus Rodrigues
+Fonte:	Arial
+Data:	26/09/2022
+Descrição:	Não deve ser vendido bebidas alcoólicas
+
+
+
+
+Identificação:	RN004
+Titulo:	RN004
+Analista:	Thales Rafael de jesus Rodrigues
+Fonte:	Arial
+Data:	26/09/2022
+Descrição:	Carga horaria de 8 horas 
+
+
+
+
+Identificação:	RN005
+Titulo:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Fontev	Arial
+Data:	26/09/2022
+Descrição:	Deve manter o gerente informado
+
+
+Identificação:	RF001
+referencia:	RN003
+analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	Estoque;
+
+
+identificação:	RF002
+Referencia:	RN002
+analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2020
+Descrição:	Sistema de registro de clientes com nome e mesa
+
+
+
+Identificação: 	RF003
+Referencia: 	RN001
+Analista:	Thales Rafael de Jesus Rodrigues
+data:	30/09/2022
+Descrição:	Fila dos pedidos
+
+
+Identificação:	RF004
+Referencia:	RN003
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	CRUD de pagamento
+
+
+Identificação:	RF005
+Referencia:	RN004
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	Ponto
+
+Identificação:	RF006
+Referencia:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	Avisar quando o estoque estiver baixo
+
+Identificação:	RF006
+Referencia:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	Avisar quando o estoque estiver baixo
+
+Identificação:	RF007
+Referencia:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	Fazer relatórios da venda do dia
+
+
+Identificação:	RF008
+Referencia:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	Mandar e-mails para os clientes sobre novas promoções
+
+
+Identificação:	RF009
+Referencia:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	o sistema dever permitir o cadastros de funcionários
+
+Identificação:	RF0010
+Referencia:	RN005
+Analista:	Thales Rafael de jesus Rodrigues
+Data:	30/09/2022
+Descrição:	- o sistema deve ter um relatório de gastos
+
+Requisitos não funcionais
+
+Identificação:	RNF001
+Referencia:	RF009
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:	Interface amigável nas cores da palheta  
+
+
+Identificação:	RNF002
+Referencia:	RF009
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:	Fonte confortável 
+
+Identificação:	RNF003
+Referencia:	RF009
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:	Tutoriais de uso
+
+
+Identificação:	RNF004
+Referencia:	RF009
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição: Versão deve ser exibida 
+
+Identificação:	RNF005
+Referencia:	RF009
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:	-Logo da pizzaria
+
+
+
+Identificação:	RNF006
+Referencia:	RF009
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:	Nome do criador e contato 
+
+
+
+
+
+
+
+
+
