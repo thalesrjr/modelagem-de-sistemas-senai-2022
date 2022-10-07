@@ -1,0 +1,35 @@
+mrv 
+
+
+Identificação:	RF001
+Referencia:	RN002
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:manter cadastro de pedidos 
+
+
+
+
+Identificação:	RF002
+Referencia:	RN003
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:manter um contastro de cliente 
+
+Identificação:	RF003
+Referencia:	RN003
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:manter um cadastro de produtos
+
+
+Identificação:	RNF001
+Referencia:	RF001
+Analista:	Thales Rafael de Jesus Rodrigues
+Data:	30/09/2022
+descrição:o cadastro deve ter campos de nome, mesa , sabor,borda.
+
+
+
+
+  
